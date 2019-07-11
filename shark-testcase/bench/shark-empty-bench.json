@@ -1,0 +1,10 @@
+{
+  "testSuiteName": "shark空跑性能测试",
+  "testCases": [
+    {
+      "input": {
+        "query": "植物大战僵尸"
+      }
+    }
+  ]
+}

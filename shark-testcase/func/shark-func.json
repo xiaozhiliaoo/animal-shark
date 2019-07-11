@@ -1,0 +1,16 @@
+{
+  "testSuiteName": "功能测试",
+  "url": "http://yoururl/test",
+  "testCases": [
+    {
+      "input": {
+        "content": {
+          "query": "快进1小时"
+        }
+      },
+      "output": [
+        "your expect result"
+      ]
+    }
+  ]
+}
